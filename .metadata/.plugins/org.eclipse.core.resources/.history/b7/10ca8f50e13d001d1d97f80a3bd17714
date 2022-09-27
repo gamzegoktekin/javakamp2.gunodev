@@ -1,0 +1,12 @@
+package inheritance;
+
+public class employee {
+ int Id;
+ String fisrtName
+ Strin Last name
+ int age ;
+ inf
+
+	}
+
+}

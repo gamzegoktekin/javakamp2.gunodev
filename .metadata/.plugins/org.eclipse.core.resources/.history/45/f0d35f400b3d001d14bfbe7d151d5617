@@ -1,0 +1,21 @@
+package classesWithAttributes;
+
+public class main {
+
+	public static void main(String[] args) {
+		Product product = new Product ();
+		product.set_name(null); = "Laptop";
+		product.setId(0); = 1;
+		product.description="Asus Laptop";
+		product.price=5000;
+		product.stockAmount=3;
+		
+		System.out.println(product.name);
+		
+		ProductManager productManager = new ProductManager();
+		productManager.Add(product);
+
+		
+	}
+
+}

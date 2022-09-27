@@ -1,0 +1,8 @@
+
+public class OgretmenKrediManager extends BaseKrediManager {
+
+OgretmenKrediManager ogretmenKrediManager = new OgretmenKrediManager();
+ogretmenKrediManager.Hesapla(new OgretmenKrediManager());
+
+	
+
